@@ -12,7 +12,9 @@
     font-family: $c-sans-serif;
 }
 
-
+.custom-video-controls {
+  z-index: 2147483647;
+}
 
   .overlay-desc {
     background: rgba(0,0,0,0);
