@@ -12,9 +12,8 @@
     font-family: $c-sans-serif;
 }
 
-*::-webkit-media-controls-start-playback-button {
-  display: none!important;
-  -webkit-appearance: none;
+.custom-video-controls {
+  z-index: 2147483647;
 }
 
   .overlay-desc {
